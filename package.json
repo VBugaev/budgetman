@@ -1,0 +1,19 @@
+{
+  "name": "budgetman",
+  "version": "1.0.0",
+  "description": "API for personal budget management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VBugaev/budgetman.git"
+  },
+  "author": "VBugaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VBugaev/budgetman/issues"
+  },
+  "homepage": "https://github.com/VBugaev/budgetman#readme"
+}
